@@ -1,0 +1,28 @@
+{
+  "HR": {
+    "Company": {
+      "Next": "STRING",
+      "Previous": "STRING"
+    },
+    "Bank": {
+      "Name": "STRING"
+    },
+    "Dependents": {
+      "First_Name": "STRING",
+      "Last_Name": "STRING",
+      "Relationship": "STRING",
+      "Gender": "STRING",
+      "Location": "STRING",
+      "Contact": "STRING"
+    },
+    "Employees": {
+      "Name": "STRING"
+    },
+    "Locations": {
+      "Name": "STRING"
+    },
+    "Payroll group": {
+      "GroupType": "STRING"
+    }
+  }
+}
